@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NFT-MARKET/static/css/main.e3fed123.css",
-    "main.js": "/NFT-MARKET/static/js/main.c2b70de1.js",
+    "main.css": "/NFT-MARKET/static/css/main.892e481f.css",
+    "main.js": "/NFT-MARKET/static/js/main.bd7bfff5.js",
     "static/js/453.6801d359.chunk.js": "/NFT-MARKET/static/js/453.6801d359.chunk.js",
     "index.html": "/NFT-MARKET/index.html",
-    "main.e3fed123.css.map": "/NFT-MARKET/static/css/main.e3fed123.css.map",
-    "main.c2b70de1.js.map": "/NFT-MARKET/static/js/main.c2b70de1.js.map",
+    "main.892e481f.css.map": "/NFT-MARKET/static/css/main.892e481f.css.map",
+    "main.bd7bfff5.js.map": "/NFT-MARKET/static/js/main.bd7bfff5.js.map",
     "453.6801d359.chunk.js.map": "/NFT-MARKET/static/js/453.6801d359.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3fed123.css",
-    "static/js/main.c2b70de1.js"
+    "static/css/main.892e481f.css",
+    "static/js/main.bd7bfff5.js"
   ]
 }
